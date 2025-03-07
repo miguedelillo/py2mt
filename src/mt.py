@@ -75,7 +75,7 @@ class maquina_de_turing:
                 cinta = (['b'] * maquina_de_turing.acciones.agregado) + cinta  
                 maquina.set_pos_cabezal(maquina_de_turing.acciones.agregado)
                 maquina.set_cinta(cinta)
-        def escribir_cinta(maquina : 'maquina_de_turing' ,simbolo):
+        def escribir_cinta(maquina : 'maquina_de_turing' = None ,simbolo = 'b'):
             simbolo = str(simbolo)
             cinta = maquina.get_cinta()
             pos_cabezal = maquina.get_pos_cabezal()
