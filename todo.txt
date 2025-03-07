@@ -1,0 +1,4 @@
+TODO:
+
+testear las acciones en la cinta
+
