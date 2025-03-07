@@ -1,4 +1,9 @@
-TODO:
+DONE:
+testear las acciones en la cinta.
 
-testear las acciones en la cinta
+TODO:
+Construir un "parser" de inputs E n -> Cinta de MT.
+
+Crear macros para la MT. -> Mas a la izq, mas a la derecha, suma, resta, while, if, sumaYwhile hacen multiplicacion, etcetc.
+
 
